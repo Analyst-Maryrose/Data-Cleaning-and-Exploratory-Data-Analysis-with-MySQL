@@ -14,5 +14,6 @@ Clauses applied include:
 
 SELECT, FROM, WHERE, GROUP BY, ORDER BY, LIMIT, CTE, UPDATE, JOIN, PARTITION BY, OVER, ROW_NUMBER, DENSE_RANK, SUBSTRING, STRING_TO_DATE, INSERT INTO, DROP, DELETE, ALTER TABLE, DATE, YEAR, TRIM, MAX, MIN, SUM.
 
-Here is the SQL Script for Data Cleaning
+Here is the [SQL Data Cleaning Script](https://github.com/Analyst-Maryrose/Data-Cleaning-and-Exploratory-Data-Analysis-with-MySQL/blob/main/sql_project.sql)
+
 Here is the SQL Script for EDA
