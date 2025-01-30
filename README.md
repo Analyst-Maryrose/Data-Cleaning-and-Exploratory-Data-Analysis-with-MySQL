@@ -16,4 +16,4 @@ SELECT, FROM, WHERE, GROUP BY, ORDER BY, LIMIT, CTE, UPDATE, JOIN, PARTITION BY,
 
 Here is the [SQL Data Cleaning Script](https://github.com/Analyst-Maryrose/Data-Cleaning-and-Exploratory-Data-Analysis-with-MySQL/blob/main/sql_project.sql)
 
-Here is the SQL Script for EDA
+Here is the [SQL EDA Script](https://github.com/Analyst-Maryrose/Data-Cleaning-and-Exploratory-Data-Analysis-with-MySQL/blob/main/sql_project_EDA.sql)
